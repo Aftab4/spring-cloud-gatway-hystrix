@@ -5,6 +5,7 @@ spring:
     config:
       server:
         git:
+          default-label: main
           uri: https://github.com/Aftab4/cloud-config-server
 
 server:
